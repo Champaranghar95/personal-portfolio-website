@@ -1332,3 +1332,26 @@ img {
         grid-template-columns: repeat(2, 1fr);
     }
 }
+
+
+.blog-post {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+}
+
+.blog-post h2, .blog-post h3 {
+    color: #fd3705;
+}
+
+.blog-post p {
+    margin-bottom: 1em;
+}
+
+.blog-post ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.blog-post li {
+    margin-bottom: 1em;
+}
